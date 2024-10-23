@@ -1,1 +1,3 @@
-# qt
+# Discord bot - qt
+---
+Discord contact: qpov
