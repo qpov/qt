@@ -2,11 +2,11 @@
 
 **Effective Date:** *23.10.2024*
 
-Welcome! These Terms of Service ("Terms") govern your use of the Discord bot ("Bot") that creates voice channels for users on a Discord server.
+Welcome! These Terms of Service ("Terms") govern your use of the Discord bot ("qt") that creates voice channels for users on a Discord server.
 
 ## Table of Contents
 
-1. [Privacy Policy](privacy-policy)
+1. [Privacy Policy](Privacy%20Policy.md)
 
 ---
 
@@ -44,7 +44,7 @@ We reserve the right to modify these Terms at any time. Changes become effective
 
 ## 8. Feedback and Contact Information
 
-If you have any questions or suggestions, please contact us via email at: [insert contact email].
+If you have any questions or suggestions, please contact us via email at: aset.slanbek@gmail.com.
 
 Thank you for using our Bot!
 
@@ -54,11 +54,11 @@ Thank you for using our Bot!
 
 **Дата вступления в силу:** *23.10.2024*
 
-Добро пожаловать! Настоящие Условия обслуживания ("Условия") регулируют использование вами Discord-бота ("Бот"), который создает голосовые каналы для пользователей на сервере Discord.
+Добро пожаловать! Настоящие Условия обслуживания ("Условия") регулируют использование вами Discord-бота ("qt"), который создает голосовые каналы для пользователей на сервере Discord.
 
 ## Содержание
 
-5. [Политика конфиденциальности](privacy-policy)
+5. [Политика конфиденциальности](Privacy%20Policy.md)
 
 ---
 
@@ -96,6 +96,6 @@ Thank you for using our Bot!
 
 ## 8. Обратная связь и контактная информация
 
-Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами по электронной почте: [укажите контактный email].
+Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами по электронной почте: aset.slanbek@gmail.com.
 
 Спасибо за использование нашего Бота!
