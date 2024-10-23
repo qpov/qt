@@ -2,7 +2,7 @@
 
 **Effective Date:** *23.10.2024*
 
-This Privacy Policy explains how your information is collected, used, and protected when you use the Discord bot ("Bot") that creates voice channels for users on a Discord server.
+This Privacy Policy explains how your information is collected, used, and protected when you use the Discord bot ("qt") that creates voice channels for users on a Discord server.
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ Thank you for using our Bot!
 
 **Дата вступления в силу:** *23.10.2024*
 
-Настоящая Политика конфиденциальности объясняет, как собирается, используется и защищается ваша информация при использовании Discord-бота ("Бот"), который создает голосовые каналы для пользователей на сервере Discord.
+Настоящая Политика конфиденциальности объясняет, как собирается, используется и защищается ваша информация при использовании Discord-бота ("qt"), который создает голосовые каналы для пользователей на сервере Discord.
 
 ## Содержание
 
