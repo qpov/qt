@@ -45,7 +45,7 @@ We reserve the right to update this Privacy Policy at any time. Changes become e
 
 ## 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: [insert contact email].
+If you have any questions or concerns about this Privacy Policy, please contact us at: aset.slanbek@gmail.com.
 
 Thank you for using our Bot!
 
@@ -98,6 +98,6 @@ Thank you for using our Bot!
 
 ## 8. Свяжитесь с нами
 
-Если у вас есть вопросы или замечания относительно этой Политики конфиденциальности, свяжитесь с нами по адресу: [укажите контактный email].
+Если у вас есть вопросы или замечания относительно этой Политики конфиденциальности, свяжитесь с нами по адресу: aset.slanbek@gmail.com.
 
 Спасибо за использование нашего Бота!
